@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Lilith's Website!
 
 You can use the [editor on GitHub](https://github.com/ItsLacuna/Lilith/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
