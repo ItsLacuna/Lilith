@@ -14,12 +14,12 @@ Lilith was created as a pet project during summer which then turned into somethi
 
 ### How Can I Invite The Bot To My Server?
 
-Its a simple process 
+Its a simple process [Invite](https://discord.com/api/oauth2/authorize?client_id=734874312972042250&permissions=8&scope=bot)
 
 ```
-1. Click on [Invite](https://discord.com/api/oauth2/authorize?client_id=734874312972042250&permissions=8&scope=bot)
+1. Click on Invite 
 
-2. Pick the Server
+2. Pick the Server you want the bot to join
 
 3. Authorize
 
