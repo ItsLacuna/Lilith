@@ -1,2 +1,2 @@
-# Lilith
-My first Github Pages Repository
+# Lilith Project
+A Discord Bot
