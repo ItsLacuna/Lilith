@@ -1,37 +1,39 @@
-## Welcome to Lilith's Website!
+## Welcome to Lilith's Website! (WIP)
 
-You can use the [editor on GitHub](https://github.com/ItsLacuna/Lilith/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is the Offical Website for The Lilith Project. A Project ran and maintained by one person that isn't only limited to Discord. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What is Lilith
 
-### Markdown
+Lilith currently is a Personalized Discord bot that serves a multipurpose role for moderation, music, fun, game tutorials, and much more!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The Discord Bot and Website are still WIP and will be worked on until completion and further more.
 
-```markdown
-Syntax highlighted code block
+### Why did you create Lilith?
 
-# Header 1
-## Header 2
-### Header 3
+Lilith was created as a pet project during summer which then turned into something I do in my free time as I continue to learn Python, Html, and CSS.
 
-- Bulleted
-- List
+### How can I invite the bot to my server?
 
-1. Numbered
-2. List
+Its a simple process 
 
-**Bold** and _Italic_ and `Code` text
+```
+1. Click on [Invite](https://discord.com/api/oauth2/authorize?client_id=734874312972042250&permissions=8&scope=bot)
 
-[Link](url) and ![Image](src)
+2. Pick the Server
+
+3. Authorize
+
+4. Complete CAPTCHA 
+
+5. Congrats! You successfully added Lilith to your server
+
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### How do I use Lilith
 
-### Jekyll Themes
+Lilith's set prefix currently is **+**,
+To get a list of the command Lilith can do ```markdown +help``` will bring up a list of commands.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ItsLacuna/Lilith/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Support
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Lilith or any of her programs? Contact Lacuna#6755 or Email lacunamystic@gmail.com
