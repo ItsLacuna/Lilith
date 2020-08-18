@@ -19,7 +19,7 @@ To get a list of the command Lilith can do ```markdown +help``` will bring up a 
 
 ### How Can I Invite The Bot To My Server?
 
-Its a simple process | [Invite](https://discord.com/api/oauth2/authorize?client_id=734874312972042250&permissions=8&scope=bot)
+Its a simple process [Invite](https://discord.com/api/oauth2/authorize?client_id=734874312972042250&permissions=8&scope=bot)
 
 ```
 1. Click on Invite 
