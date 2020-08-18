@@ -1,8 +1,8 @@
-## Welcome to Lilith's Website! (WIP)
+# Welcome to Lilith's Website! (WIP)
 
 This is the Offical Website for The Lilith Project. A Project ran and maintained by one person that isn't only limited to Discord. 
 
-### What Is Lilith
+## What Is Lilith
 
 Lilith currently is a Personalized Discord bot that serves a multipurpose role for moderation, music, fun, game tutorials, and much more!
 
