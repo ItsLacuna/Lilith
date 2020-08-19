@@ -1,16 +1,16 @@
 <h1 align=center>Welcome to Lilith's Website! (WIP)</h1>
 
-This is the Offical Website for The Lilith Project. A Project ran and maintained by one person that isn't only limited to Discord. 
+<p align=center>This is the Offical Website for The Lilith Project. A Project ran and maintained by one person that isn't only limited to Discord.</p>
 
 <h2 align=center>What Is Lilith?</h2>
 
-Lilith currently is a Personalized Discord bot that serves a multipurpose role for moderation, music, fun, game tutorials, and much more!
+<p align=center>Lilith currently is a Personalized Discord bot that serves a multipurpose role for moderation, music, fun, game tutorials, and much more!
 
-The Discord Bot and Website are still WIP and will be worked on until completion and further more.
+The Discord Bot and Website are still WIP and will be worked on until completion and further more.</p>
 
-<h3 align=center>Why Did You Create Lilith?<h3>
+<h3 align=center>Why Did You Create Lilith?</h3>
 
-Lilith was created as a pet project during summer which then turned into something I do in my free time as I continue to learn Python, Html, and CSS.
+<p align=center>Lilith was created as a pet project during summer which then turned into something I do in my free time as I continue to learn Python, Html, and CSS.</p>
 
 <h3 align=center>How Do I Use Lilith</h3>
 
@@ -34,18 +34,18 @@ Its a simple process [Invite](https://discord.com/api/oauth2/authorize?client_id
 
 ```
 <h2 align=center>What Do You Plan On Doing?</h2>
-There are several things I plan on doing as its not near completion in terms of goals or finished in general only having the basic commands finished. But I plan on working on this bot for fun until I get bored of it and officially open source it.
+<p align=center>There are several things I plan on doing as its not near completion in terms of goals or finished in general only having the basic commands finished. But I plan on working on this bot for fun until I get bored of it and officially open source it.</p>
 
 <h3 align=center> Goal #1 - Achieve Multipurpose</h3>
 
-The bots main goal is to achieve multipurpose being able to do several things instead of one specifc thing kinda like a jack of all traders but instead of master of none its master of many.
+<p align=center>The bots main goal is to achieve multipurpose being able to do several things instead of one specifc thing kinda like a jack of all traders but instead of master of none its master of many.</p>
 
 <h3 align=center> Goal #2 - Represent Communities</h3>
 
-The second goal is to add commands in which communities can personalize the bot to their own liking. Such as Profile Cards, Leveling System and etc. And also show servers/emojis from small communities.
+<p align=center>The second goal is to add commands in which communities can personalize the bot to their own liking. Such as Profile Cards, Leveling System and etc. And also show servers/emojis from small communities.</p>
 
 There is much more that I want to do however these are the mean two goals I have planned to complete.
 
 # Support
 
-Having trouble with Lilith or any of her programs? Contact Lacuna#6755 or Email lacunamystic@gmail.com
+<p align=center><sub>Having trouble with Lilith or any of her programs? Contact Lacuna#6755 or Email lacunamystic@gmail.com<sub></p>
