@@ -1,4 +1,4 @@
-<h1 align=center># Welcome to Lilith's Website! (WIP)</h1>
+<h1 align=center>Welcome to Lilith's Website! (WIP)</h1>
 
 This is the Offical Website for The Lilith Project. A Project ran and maintained by one person that isn't only limited to Discord. 
 
