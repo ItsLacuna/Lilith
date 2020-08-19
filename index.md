@@ -1,4 +1,5 @@
 <h1 align=center>Welcome to Lilith's Website! (WIP)</h1>
+<hr width="60%"/>
 
 <p align=center>This is the Offical Website for The Lilith Project. A Project ran and maintained by one person that isn't only limited to Discord.</p>
 
@@ -46,6 +47,6 @@ Its a simple process [Invite](https://discord.com/api/oauth2/authorize?client_id
 
 There is much more that I want to do however these are the mean two goals I have planned to complete.
 
-<hr width="50%">
+<hr width="50%"/>
 
 <p align=center><sub>Having trouble with Lilith or any of her programs? Contact Lacuna#6755 or Email lacunamystic@gmail.com<sub>
