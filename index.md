@@ -2,17 +2,17 @@
 
 This is the Offical Website for The Lilith Project. A Project ran and maintained by one person that isn't only limited to Discord. 
 
-## What Is Lilith
+<h2 align=center>What Is Lilith?</h2>
 
 Lilith currently is a Personalized Discord bot that serves a multipurpose role for moderation, music, fun, game tutorials, and much more!
 
 The Discord Bot and Website are still WIP and will be worked on until completion and further more.
 
-### Why Did You Create Lilith?
+<h3 align=center>Why Did You Create Lilith?<h3>
 
 Lilith was created as a pet project during summer which then turned into something I do in my free time as I continue to learn Python, Html, and CSS.
 
-### How Do I Use Lilith
+<h3 align=center>How Do I Use Lilith</h3>
 
 Lilith's set prefix currently is **+**,
 To get a list of the command Lilith can do ```markdown +help``` will bring up a list of commands.
@@ -33,14 +33,14 @@ Its a simple process [Invite](https://discord.com/api/oauth2/authorize?client_id
 5. Congrats! You successfully added Lilith to your server
 
 ```
-## What Do You Plan On Doing?
-There are several things I plan on doing as its not near completion in terms of goals or finished in general only having the basic commands finished
+<h2 align=center>What Do You Plan On Doing?</h2>
+There are several things I plan on doing as its not near completion in terms of goals or finished in general only having the basic commands finished. But I plan on working on this bot for fun until I get bored of it and officially open source it.
 
-### Goal #1 - Achieve Multipurpose
+<h3 align=center> Goal #1 - Achieve Multipurpose</h3>
 
 The bots main goal is to achieve multipurpose being able to do several things instead of one specifc thing kinda like a jack of all traders but instead of master of none its master of many.
 
-### Goal #2 - Represent Communities
+<h3 align=center> Goal #2 - Represent Communities</h3>
 
 The second goal is to add commands in which communities can personalize the bot to their own liking. Such as Profile Cards, Leveling System and etc. And also show servers/emojis from small communities.
 
