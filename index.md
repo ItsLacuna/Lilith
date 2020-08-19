@@ -43,7 +43,7 @@ Its a simple process [Invite](https://discord.com/api/oauth2/authorize?client_id
 
 <h3 align=center> Goal #2 - Represent Communities</h3>
 
-<p align=center>The second goal is to add commands in which communities can personalize the bot to their own liking. Such as Profile Cards, Leveling System and etc. And also show servers/emojis from small communities.</p>
+<p align=center>The second goal is to add commands in which communities can personalize the bot to their own liking. Such as Profile Cards, Leveling System and etc. And show servers/emojis from small communities.</p>
 
 There is much more that I want to do however these are the mean two goals I have planned to complete.
 
