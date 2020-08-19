@@ -15,7 +15,7 @@ The Discord Bot and Website are still WIP and will be worked on until completion
 <h3 align=center>How Do I Use Lilith</h3>
 
 Lilith's set prefix currently is **+**,
-To get a list of the command Lilith can do ```markdown +help``` will bring up a list of commands.
+To get a list of the command Lilith can do ``` +help ``` will bring up a list of commands.
 
 ### How Can I Invite The Bot To My Server?
 
@@ -46,6 +46,6 @@ Its a simple process [Invite](https://discord.com/api/oauth2/authorize?client_id
 
 There is much more that I want to do however these are the mean two goals I have planned to complete.
 
-# Support
+<hr width="50%">
 
-<p align=center><sub>Having trouble with Lilith or any of her programs? Contact Lacuna#6755 or Email lacunamystic@gmail.com<sub></p>
+<p align=center><sub>Having trouble with Lilith or any of her programs? Contact Lacuna#6755 or Email lacunamystic@gmail.com<sub>
